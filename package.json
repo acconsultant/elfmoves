@@ -1,0 +1,23 @@
+{
+  "name": "elfchallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "build": "npx tsc *.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.16",
+    "@types/prompt": "^1.1.3",
+    "typescript": "^4.8.2"
+  },
+  "engines": {
+    "node": "16"
+  }
+}
